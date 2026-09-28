@@ -1,2 +1,9 @@
-# delta-demo-20
-This is my delta demo Git &amp; Github class.
+git # delta-demo-20
+This is my delta demo Git & Github class.
+
+# teacher
+poonam malviya
+
+# student 
+riya sahu
+
